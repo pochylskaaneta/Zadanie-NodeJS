@@ -1,7 +1,7 @@
 var array = [];
 
 exports.addTrainings = (training) => {
-    array.append(training)
+    array.push(training)
 }
 
 exports.getAllTrainings= () => {
